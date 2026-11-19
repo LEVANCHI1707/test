@@ -1,0 +1,68 @@
+1
+00:00:00,700 --> 00:00:03,828
+Kính chào quý khách hàng Mộc Việt Home.
+
+2
+00:00:04,078 --> 00:00:11,958
+Đây là báo cáo hiệu quả chiến dịch “Tổ ấm mùa thu” trên Cốc Cốc, từ tháng 5 đến tháng 10 năm 2026.
+
+3
+00:00:13,367 --> 00:00:20,263
+Sau sáu tháng, chiến dịch đạt hơn 52 triệu lượt hiển thị và hơn 435 nghìn lượt click.
+
+4
+00:00:20,513 --> 00:00:28,801
+Với chi phí khoảng 1 tỷ đồng, chiến dịch mang về 12.924 chuyển đổi và 19,07 tỷ đồng doanh thu.
+
+5
+00:00:29,051 --> 00:00:35,179
+Chỉ số ROAS đạt 19 lần: mỗi đồng quảng cáo mang về 19 đồng doanh thu.
+
+6
+00:00:36,567 --> 00:00:44,495
+Ngân sách được tăng dần qua từng tháng, từ 130,5 triệu trong tháng 5 lên hơn 208 triệu trong tháng 10.
+
+7
+00:00:44,745 --> 00:00:51,617
+Search Ads chiếm khoảng một nửa ngân sách, phần còn lại chia đều cho Native, Banner và New Tab Ads.
+
+8
+00:00:53,000 --> 00:00:56,344
+Doanh thu tăng trưởng đều qua từng tháng.
+
+9
+00:00:56,594 --> 00:01:02,746
+Tháng 10 đạt 4,27 tỷ đồng, tăng 87% so với tháng 5.
+
+10
+00:01:04,133 --> 00:01:11,653
+Search Ads hiệu quả nhất, với ROAS 23,5 lần và chi phí khoảng 64 nghìn đồng mỗi chuyển đổi.
+
+11
+00:01:11,903 --> 00:01:19,423
+Native Ads theo sát với ROAS gần 20 lần, còn Banner Display phù hợp hơn cho mục tiêu nhận diện thương hiệu.
+
+12
+00:01:20,833 --> 00:01:24,633
+Cốc Cốc đề xuất ba hướng tối ưu cho quý tới.
+
+13
+00:01:24,883 --> 00:01:30,987
+Thứ nhất, tăng 20–30% ngân sách cho Search Ads trong mùa mua sắm cuối năm.
+
+14
+00:01:31,237 --> 00:01:36,357
+Thứ hai, mở rộng Native Ads với bộ hình ảnh và nội dung mới.
+
+15
+00:01:36,607 --> 00:01:42,543
+Thứ ba, duy trì Banner Display và New Tab Ads để giữ độ phủ thương hiệu.
+
+16
+00:01:43,933 --> 00:01:47,421
+Cảm ơn quý khách đã đồng hành cùng Cốc Cốc.
+
+17
+00:01:47,671 --> 00:01:50,919
+Hẹn gặp lại trong báo cáo tiếp theo!
+
